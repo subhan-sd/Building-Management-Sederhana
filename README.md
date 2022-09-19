@@ -1,0 +1,2 @@
+# Building-Management-Sederhana
+membuat sebuah sistem berbasis website Building Management sederhana oleh Nusantara Tower, untuk pencatatan data Unit dan Tenant, data Unit merupakan data unit/ruangan yang disewakan di gedung Nusantara Tower, data Tenant merupakan data perusahaan yang menyewa unit di gedung Nusantara Tower, sistem hanya dapat diakses oleh user admin yang sudah didaftarkan dan sudah memiki password, sistem hanya memiliki 1 user sehingga tidak diperlukan modul CRUD untuk User, semenara Unit &amp; Tenant diperlukan beberapa olah data,
